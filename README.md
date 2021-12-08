@@ -47,4 +47,4 @@
 
     Example:
   
-    * Customer Segmentation <a href="https://github.com/DhanyaJayanA/Customer_segmentation/blob/main/Customer_Segmentation_k_mean_clustering.ipynb"> Code </a>
+    * Customer Segmentation <a href="https://github.com/DhanyaJayanA/MachineLearning/blob/main/Customer_segmentation/Customer_Segmentation_k_mean_clustering.ipynb"> Code </a>
